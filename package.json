@@ -1,0 +1,15 @@
+{
+  "name": "github-actions-node-project",
+  "version": "1.0.0",
+   "description": "Simple Node.js app for GitHub Actions CI/CD demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

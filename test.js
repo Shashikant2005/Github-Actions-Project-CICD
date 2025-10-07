@@ -6,7 +6,7 @@ function testGreet() {
     console.log("✅ Test passed");
     process.exit(0);
   } else {
-    console.error("❌ Test failed");
+    console.error("❌ Test cases failed");
     process.exit(1);
   }
 }
